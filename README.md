@@ -1,16 +1,19 @@
-## Hi there 👋
+## Juan Ignacio Saavedra
 
-<!--
-**juani-saavedra/juani-saavedra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Sistemas. Me interesa el backend, la arquitectura de software y construir herramientas que resuelvan problemas reales — casi todos mis proyectos arrancaron como algo que me molestaba en el trabajo.
 
-Here are some ideas to get you started:
+`C#` `.NET` `TypeScript` `Python` `SQL`
+`Next.js` `React` `Node.js` `WinForms`
+`SQL Server` `PostgreSQL` `SQLite`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**En qué ando**
+
+- **Analizador de Cargas** — app de escritorio en C# + SQLite que concilia dos fuentes de datos que no cuadraban solas
+- Estudiando estructuras de datos, algoritmos e ingeniería de requerimientos
+- Escribiendo todo lo que aprendo, para no aprenderlo dos veces
+
+📝 **[juani-digital-garden.vercel.app](https://juani-digital-garden.vercel.app)** — notas, blog, proyectos, libros y cursos.
+
+---
+
+[Digital garden](https://juani-digital-garden.vercel.app) · [LinkedIn](https://www.linkedin.com/in/juanignaciosaavedra) · [X](https://x.com/Juani40k)
