@@ -6,13 +6,11 @@ Estudiante de Ingeniería en Sistemas. Me interesa el backend, la arquitectura d
 `Next.js` `React` `Node.js` `WinForms`
 `SQL Server` `PostgreSQL` `SQLite`
 
-**En qué ando**
 
-- **Analizador de Cargas** — app de escritorio en C# + SQLite que concilia dos fuentes de datos que no cuadraban solas
-- Estudiando estructuras de datos, algoritmos e ingeniería de requerimientos
-- Escribiendo todo lo que aprendo, para no aprenderlo dos veces
+- **Analizador de Cargas** — app de escritorio en C# + SQLite que concilia dos fuentes de datos
+- Estructuras de datos, algoritmos e ingeniería de requerimientos
 
-📝 **[juani-digital-garden.vercel.app](https://juani-digital-garden.vercel.app)** — notas, blog, proyectos, libros y cursos.
+📝 **[juani-digital-garden.vercel.app](https://juani-digital-garden.vercel.app)** — notas, blog, proyectos, libros y cursos que voy haciendo.
 
 ---
 
