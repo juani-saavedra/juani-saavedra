@@ -2,8 +2,8 @@
 
 Estudiante de Ingeniería en Sistemas.
 
-`C#` `.NET` `TypeScript` `Python` `SQL`
-`Next.js` `Node.js` `WinForms`
+`C#` `Python` `SQL`
+`Next.js` `Node.js`
 `SQL Server` `SQLite`
 
 ---
